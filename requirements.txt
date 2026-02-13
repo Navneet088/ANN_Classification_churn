@@ -1,13 +1,9 @@
-pandas                  # OK on Python 3.11
-numpy                   # OK
-scikit-learn            # OK
-tensorboard             # OK with TensorFlow
-matplotlib              # OK
-streamlit==1.54.0       # OK
-
-protobuf==3.20.3        # OK but not needed to pin for TF2.11
-scikeras   
-
 tensorflow==2.11.0
 streamlit==1.54.0
+numpy
+pandas
+scikit-learn
+matplotlib
+scikeras
+
 
